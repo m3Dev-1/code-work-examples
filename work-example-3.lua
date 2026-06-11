@@ -30,7 +30,7 @@ local Server = {
 
 local Boat = Component.new({
 	Tag = "Boat",
-	Ancestors = { workspace },
+	Ancestors = {workspace},
 })
 
 function Boat.StoreAll()
